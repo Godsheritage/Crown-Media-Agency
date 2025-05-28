@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-cyber-security",
+        "number": "01",
+        "title": "Brand Discovery"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-paper",
+        "number": "02",
+        "title": "Setup & Scripting"
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-start-up",
+        "number": "03",
+        "title": "Editing & Refinement"
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-support-1",
+        "number": "04",
+        "title": "Distribution & Growth"
+    }
+]

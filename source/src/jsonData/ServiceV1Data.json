@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "icon1": "1.png",
+        "icon1Dark": "target.png",
+        "thumb": "1-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Receive expert guidance to script engaging and on-brand videos that resonate with your audience.",
+        "title": "Video Scripting & Storytelling",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 2,
+        "icon1": "2.png",
+        "icon1Dark": "envelope.png",
+        "thumb": "2-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Get personal coaching on setting up a professional video space, tailored to your unique needs.",
+        "title": "Studio Setup Consultations",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 3,
+        "icon1": "3.png",
+        "icon1Dark": "analytics.png",
+        "thumb": "3-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Learn what gear suits your goals from industry pros, ensuring professional-quality output.",
+        "title": "Equipment Insights",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 4,
+        "icon1": "4.png",
+        "icon1Dark": "4.png",
+        "thumb": "4-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "We transform your raw footage into polished long-form and short-form videos, ready to wow your audience.",
+        "title": "Video Editing & Content Creation",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 5,
+        "icon1": "5.png",
+        "icon1Dark": "5.png",
+        "thumb": "5-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Maximize your reach by distributing your content seamlessly across multiple social platforms.",
+        "title": "Multi-Platform Distribution",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 6,
+        "icon1": "6.png",
+        "icon1Dark": "6.png",
+        "thumb": "6-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Stay informed with monthly reports that analyze video performance, audience engagement, and platform growth.",
+        "title": "Monthly Analytics & Insights",
+        "serviceLink": "services-details"
+    }
+]
