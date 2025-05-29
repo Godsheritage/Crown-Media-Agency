@@ -20,7 +20,14 @@ const SinglePriceV2 = ({ price }) => {
                             item && <li key={index}><i className={icon1}></i> {item}</li>
                         ))}
                     </ul>
-                    <Link className={`btn mt-30 btn-sm ${btnClass ? btnClass : ""} effect`} to={`/${btnLink}#`}>{btnText}</Link>
+                    <a
+                        className={`btn mt-30 btn-sm ${btnClass ? btnClass : ""} effect`}
+                        href={`${btnLink}#`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        {btnText}
+                    </a>
                 </div>
             </div>
         </>

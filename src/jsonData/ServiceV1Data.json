@@ -1,16 +1,6 @@
 [
     {
         "id": 1,
-        "icon1": "1.png",
-        "icon1Dark": "target.png",
-        "thumb": "1-full.jpg",
-        "icon2": "fas fa-long-arrow-right",
-        "text": "Receive expert guidance to script engaging and on-brand videos that resonate with your audience.",
-        "title": "Video Scripting & Storytelling",
-        "serviceLink": "services-details"
-    },
-    {
-        "id": 2,
         "icon1": "2.png",
         "icon1Dark": "envelope.png",
         "thumb": "2-full.jpg",
@@ -20,13 +10,23 @@
         "serviceLink": "services-details"
     },
     {
-        "id": 3,
+        "id": 2,
         "icon1": "3.png",
         "icon1Dark": "analytics.png",
         "thumb": "3-full.jpg",
         "icon2": "fas fa-long-arrow-right",
         "text": "Learn what gear suits your goals from industry pros, ensuring professional-quality output.",
         "title": "Equipment Insights",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 3,
+        "icon1": "1.png",
+        "icon1Dark": "target.png",
+        "thumb": "1-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Receive expert guidance to script engaging and on-brand videos that resonate with your audience.",
+        "title": "Video Scripting & Storytelling",
         "serviceLink": "services-details"
     },
     {
