@@ -2,7 +2,7 @@
     {
         "id": 1,
         "planClass": "",
-        "plan": "Basic",
+        "plan": "Rookie",
         "planInfo": "Covers the basics to get you started",
         "planPrice": "198",
         "priceType": "/ Month",
@@ -25,7 +25,7 @@
     {
         "id": 2,
         "planClass": "active",
-        "plan": "Premium",
+        "plan": "Champion",
         "planInfo": "Enhanced features for growing brands.",
         "planPrice": "498",
         "priceType": "/ Month",
@@ -49,7 +49,7 @@
     {
         "id": 3,
         "planClass": "",
-        "plan": "Advanced",
+        "plan": "Final Boss",
         "planInfo": "Executive solutions for maximum impact",
         "planPrice": 998,
         "priceType": "/ Month",
@@ -74,7 +74,7 @@
     {
         "id": 4,
         "planClass": "",
-        "plan": "Essential",
+        "plan": "Rookie",
         "planInfo": "Covers the basics to get you started",
         "planPrice": "1,980",
         "priceType": "/ Year",
@@ -97,7 +97,7 @@
     {
         "id": 5,
         "planClass": "active",
-        "plan": "Premium",
+        "plan": "Champion",
         "planInfo": "Enhanced features for growing brands.",
         "planPrice": "4,980",
         "priceType": "/ Year",
@@ -121,7 +121,7 @@
     {
         "id": 6,
         "planClass": "",
-        "plan": "Advanced",
+        "plan": "Final Boss",
         "planInfo": "Executive solutions for maximum impact",
         "planPrice": "9,980",
         "priceType": "/ Year",
