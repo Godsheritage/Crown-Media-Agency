@@ -6,7 +6,7 @@ const HeaderLogoV1 = ({ logoColor = false, openMenu }) => {
         <>
             <div className="navbar-header">
                 <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu" onClick={openMenu}>
-                    <i className="fa-solid fa-bars"></i>
+                    <i className="fa-solid fa-bars" style={{"opacity":"0"}}></i>
                 </button>
                 <Link className="navbar-brand" to="/#">
                     {logoColor ?

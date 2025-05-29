@@ -2460,7 +2460,8 @@ nav.navbar.validnavs.brand-center {
 
 	nav.navbar.validnavs.navbar-fixed .logo {
 		display: block !important;
-		max-height: 90px;
+		max-height: 900px;
+		width: 150px;
 	}
 
 	.navbar-brand>img {

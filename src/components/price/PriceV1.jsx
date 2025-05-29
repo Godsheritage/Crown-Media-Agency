@@ -65,35 +65,3 @@ export default PriceV1;
 
 
 
-// <div className="col-xl-7 mb-50 mb-xs-10 pl-30 pl-md-20 pr-md-0 pl-xs-10 mt-md-40 mt-xs-40">
-//
-//     <div className="tab-content" id="nav-tabContent">
-//         <div className="tab-pane fade show active" id="price-monthly" role="tabpanel" aria-labelledby="price-monthly-tab">
-//             <div className="row">
-//                 {PriceV1CardData.slice(0, 3).map(price =>
-//                     <div className="col-md-4 mb-4">
-//                         <SinglePriceV1 price={price} key={price.id} />
-//                     </div>
-//                 )}
-//             </div>
-//         </div>
-//         <div className="tab-pane fade" id="price-yearly" role="tabpanel" aria-labelledby="price-yearly-tab">
-//             <div className="row">
-//                 {PriceV1CardData.slice(3, 6).map(price =>
-//                     <div className="col-md-4 mb-4">
-//                         <SinglePriceV1 price={price} key={price.id} />
-//                     </div>
-//                 )}
-//             </div>
-//         </div>
-//         <div className="tab-pane fade" id="price-premium" role="tabpanel" aria-labelledby="price-premium-tab">
-//             <div className="row">
-//                 {PriceV1CardData.slice(6, 9).map(price =>
-//                     <div className="col-md-4 mb-4">
-//                         <SinglePriceV1 price={price} key={price.id} />
-//                     </div>
-//                 )}
-//             </div>
-//         </div>
-//     </div>
-// </div>
