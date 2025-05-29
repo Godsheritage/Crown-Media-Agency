@@ -6,6 +6,30 @@ const SinglePriceV1 = ({ price }) => {
 
     return (
         <>
+
+            <div className="col-xl-5">
+                <div className="mb-40">
+                    <h4 className="sub-title">Our Pricing</h4>
+                    <h2 className="title">Committed to <br /> giving the best price</h2>
+                </div>
+                <div className="pricing-tab">
+                    <nav>
+                        <div className="nav nav-tabs" id="nav-tab" role="tablist">
+                            <button className="nav-link active" id="price-montly-tab" data-bs-toggle="tab" data-bs-target="#price-montly" type="button" role="tab" aria-controls="price-montly" aria-selected="true">
+                                Monthly
+                            </button>
+                            <button className="nav-link" id="price-yearly-tab" data-bs-toggle="tab" data-bs-target="#price-yearly" type="button" role="tab" aria-controls="price-yearly" aria-selected="false">
+                                Yearly
+                            </button>
+                        </div>
+                    </nav>
+                    {/* <div className="shape-arrow">
+                        {lightShape ? <><img src="/img/shape/24-theme.png" alt="Image not found" /></>
+                            : <><img src="/img/shape/24.png" alt="Image not found" /></>}
+                    </div> */}
+                </div>
+            </div>
+
             <div className={`pricing-style-one ${cardClass ? cardClass : ""} col-md-6`}>
                 <div className={`item ${itemClass ? itemClass : ""}`}>
                     <div className="pricing-header">

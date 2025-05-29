@@ -2,7 +2,7 @@ import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 
 const SinglePriceV2 = ({ price }) => {
-    const { planClass, plan, planInfo, planPrice, priceType, list1, list2, list3, icon1, icon2, icon3, btnLink, btnText, btnClass } = price
+    const { planClass, plan, planInfo, planPrice, priceType, list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11, icon1, icon2, icon3, btnLink, btnText, btnClass } = price
 
     return (
         <>
@@ -16,9 +16,9 @@ const SinglePriceV2 = ({ price }) => {
                         <h2><sup id="priceSup">$</sup>{planPrice} <sub>{priceType}</sub></h2>
                     </div>
                     <ul>
-                        <li><i className={icon1}></i> {list1}</li>
-                        <li><i className={icon2}></i> {list2}</li>
-                        <li><i className={icon3}></i> {list3}</li>
+                        {[list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11].map((item, index) => (
+                            item && <li key={index}><i className={icon1}></i> {item}</li>
+                        ))}
                     </ul>
                     <Link className={`btn mt-30 btn-sm ${btnClass ? btnClass : ""} effect`} to={`/${btnLink}#`}>{btnText}</Link>
                 </div>
@@ -28,3 +28,9 @@ const SinglePriceV2 = ({ price }) => {
 };
 
 export default SinglePriceV2;
+
+
+
+// {[list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11,].map((item, index) => (
+//                                 item && <li key={index}><i className={icon1}></i> {item}</li>
+//                             ))}

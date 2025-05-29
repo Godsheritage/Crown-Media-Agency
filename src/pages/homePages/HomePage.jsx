@@ -11,6 +11,7 @@ import BlogV1 from '../../components/blog/BlogV1';
 import FooterV1 from '../../components/footer/FooterV1';
 import HeaderV1 from '../../components/header/HeaderV1';
 import PriceV1 from '../../components/price/PriceV1';
+import PriceV2 from '../../components/price/PriceV2';
 import ContactV1 from '../../components/contact/ContactV1';
 
 
@@ -27,7 +28,8 @@ const Home1 = () => {
             {/* <WhyChooseUsV1 chooseClass="bg-gray" /> */}
             {/* <TeamV1 /> */}
             {/* <TestimonialV2 /> */}
-            <PriceV1 />
+            <PriceV2/>
+            {/* <PriceV1 /> */}
             <ContactV1 />
             <FooterV1 />
         </>
