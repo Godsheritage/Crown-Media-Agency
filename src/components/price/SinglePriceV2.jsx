@@ -2,7 +2,7 @@ import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 
 const SinglePriceV2 = ({ price }) => {
-    const { planClass, plan, planInfo, planPrice, priceType, list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11, icon1, icon2, icon3, btnLink, btnText, btnClass } = price
+    const { planClass, plan, planInfo, planPrice, originalPrice, discountedPrice, priceType, list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11, icon1, icon2, icon3, btnLink, btnText, btnClass } = price
 
     return (
         <>
@@ -13,7 +13,11 @@ const SinglePriceV2 = ({ price }) => {
                 </div>
                 <div className="pricing-content">
                     <div className="price">
-                        <h2><sup id="priceSup">$</sup>{planPrice} <sub>{priceType}</sub></h2>
+                        {/* <h2><sup id="priceSup">$</sup>{planPrice} <sub>{priceType}</sub></h2> */}
+                        <h2>
+                            <sup id="priceSup">$</sup><s>{originalPrice}</s>
+                            <sup id="priceSup">$</sup>{discountedPrice} <sub>{priceType}</sub>
+                        </h2>
                     </div>
                     <ul>
                         {[list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11].map((item, index) => (
@@ -37,7 +41,6 @@ const SinglePriceV2 = ({ price }) => {
 export default SinglePriceV2;
 
 
-
-// {[list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11,].map((item, index) => (
-//                                 item && <li key={index}><i className={icon1}></i> {item}</li>
-//                             ))}
+// <div className="price">
+//     <h2><sup id="priceSup">$</sup>{planPrice} <sub>{priceType}</sub></h2>
+// </div>
