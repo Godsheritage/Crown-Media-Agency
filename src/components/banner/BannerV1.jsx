@@ -24,7 +24,9 @@ const BannerV1 = () => {
                                         </Animate>
                                         <Animate className="animate__animated animate__fadeInUp" delay="1200ms" duration="400ms">
                                             <div className="button mt-40">
-                                                <Link className="btn btn-md btn-gradient animation" to="/contact-us#">Book A Call</Link>
+                                                <a className="btn btn-md btn-gradient animation" href="https://api.leadconnectorhq.com/widget/booking/ciqckeoMSq7nhG9zXf5O" target="_blank" rel="noopener noreferrer">
+                                                    Book A Call
+                                                </a>
                                             </div>
                                         </Animate>
                                     </div>

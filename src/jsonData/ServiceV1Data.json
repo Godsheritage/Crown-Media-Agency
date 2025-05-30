@@ -1,25 +1,5 @@
 [
     {
-        "id": 1,
-        "icon1": "2.png",
-        "icon1Dark": "envelope.png",
-        "thumb": "2-full.jpg",
-        "icon2": "fas fa-long-arrow-right",
-        "text": "Get personal coaching on setting up a professional video space, tailored to your unique needs.",
-        "title": "Studio Setup Consultations",
-        "serviceLink": "services-details"
-    },
-    {
-        "id": 2,
-        "icon1": "3.png",
-        "icon1Dark": "analytics.png",
-        "thumb": "3-full.jpg",
-        "icon2": "fas fa-long-arrow-right",
-        "text": "Learn what gear suits your goals from industry pros, ensuring professional-quality output.",
-        "title": "Equipment Insights",
-        "serviceLink": "services-details"
-    },
-    {
         "id": 3,
         "icon1": "1.png",
         "icon1Dark": "target.png",
@@ -57,6 +37,26 @@
         "icon2": "fas fa-long-arrow-right",
         "text": "Stay informed with monthly reports that analyze video performance, audience engagement, and platform growth.",
         "title": "Monthly Analytics & Insights",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 1,
+        "icon1": "2.png",
+        "icon1Dark": "envelope.png",
+        "thumb": "2-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Get personal coaching on setting up a professional video space, tailored to your unique needs.",
+        "title": "Studio Setup Consultations",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 2,
+        "icon1": "3.png",
+        "icon1Dark": "analytics.png",
+        "thumb": "3-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Learn what gear suits your goals from industry pros, ensuring professional-quality output.",
+        "title": "Equipment Insights",
         "serviceLink": "services-details"
     }
 ]
