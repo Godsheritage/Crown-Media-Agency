@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ModalVideo from 'react-modal-video';
 import { Link } from 'react-router-dom';
+import Animate from '../animation/Animate';
 
 const AboutV1 = () => {
 
@@ -15,15 +16,21 @@ const AboutV1 = () => {
                             <div className="about-style-one bg-dark text-light" style={{ backgroundImage: "url(img/shape/7.png)" }}>
                                 <ul className="check-list-item">
                                     <li>
-                                        <h5>Customized Solutions</h5>
+                                        <h5>Build your strategy</h5>
                                         <p>
-                                            Every brand is unique. We tailor our services to match your vision, ensuring authenticity and connection with your audience
+                                            We start with a deep dive into your brand, goals, and audience. From there, we craft a custom content plan with messaging, video ideas, and a repeatable structure.
                                         </p>
                                     </li>
                                     <li>
-                                        <h5>Pro-Level Expertise</h5>
+                                        <h5>You batch film content</h5>
                                         <p>
-                                            Our team includes industry professionals with years of experience in video production and brand strategy
+                                            A few hours of your time becomes a month of consistent, strategic content. No daily scramble, no constant pressure to create.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <h5>We Edit, Publish, and Optimize</h5>
+                                        <p>
+                                            Our team handles the editing, branding, formatting, and posting across platforms. You get consistent, high-performing content—done for you, week after week.
                                         </p>
                                     </li>
                                 </ul>
@@ -31,7 +38,7 @@ const AboutV1 = () => {
                         </div>
                         <div className="col-xl-8 col-lg-12">
                             <div className="about-style-one">
-                                <h2 className="title pl-120 pl-md-0 pl-xs-0 mb-70 mb-md-40 mb-xs-30 mt-md-50 mt-xs-30">Providing the best service <br /> To <strong>Build</strong> Your Brand</h2>
+                                <h2 className="title pl-120 pl-md-0 pl-xs-0 mb-70 mb-md-40 mb-xs-30 mt-md-50 mt-xs-30">Your Content. Our System.<br /> Zero <strong>Guesswork</strong></h2>
                                 <div className="thumb bg-cover" style={{ backgroundImage: "url(https://images.pexels.com/photos/6476257/pexels-photo-6476257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)" }}>
                                     <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="tT2puL7IZOE" onClose={() => setOpen(false)} />
                                     <Link className="mfp-iframe popup-youtube video-play-button with-text mt-20" onClick={() => setOpen(true)}>
@@ -39,6 +46,13 @@ const AboutV1 = () => {
                                         {/* <span><i className="fa-solid fa-play"></i> OUR STORY</span> */}
                                     </Link>
                                 </div>
+                                <Animate className="animate__animated animate__fadeInUp" delay="1200ms" duration="400ms">
+                                    <div className="button mt-40 ml-80">
+                                        <a className="btn btn-md btn-gradient animation" href="https://api.leadconnectorhq.com/widget/booking/ciqckeoMSq7nhG9zXf5O" target="_blank" rel="noopener noreferrer">
+                                            Book A Call
+                                        </a>
+                                    </div>
+                                </Animate>
                             </div>
                         </div>
                     </div>

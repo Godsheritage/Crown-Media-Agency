@@ -19,7 +19,7 @@ const BannerV1 = () => {
                                         </Animate>
                                         <Animate className="animate__animated animate__fadeInUp" delay="900ms" duration="400ms">
                                             <p>
-                                                We help real estate investors and entrepreneurs amplify their message through powerful branding, personalized strategies, and streamlined social media distribution
+                                                As a real estate entrepreneur you've got a message worth sharing or a brand the world needs see. But the reality? Creating consistent, high-converting content is a full-time job. Strategy, filming, editing, optimization, publishing, tracking results... it never ends. That's where we come in
                                             </p>
                                         </Animate>
                                         <Animate className="animate__animated animate__fadeInUp" delay="1200ms" duration="400ms">

@@ -5,7 +5,7 @@ import SingleProcessV1 from './SingleProcessV1';
 const ProcessV1 = ({ processClass }) => {
     return (
         <>
-            <div className={`process-style-one-area text-center default-padding-bottom ${processClass}`}>
+            <div className={`process-style-one-area text-center default-padding-bottom mt-5 ${processClass}`}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8 offset-lg-2">

@@ -16,19 +16,21 @@ import ContactV1 from '../../components/contact/ContactV1';
 
 
 import TestimonialV2 from '../../components/testimonial/TestimonialV2';
+import AboutV2 from '../../components/about/AboutV2';
 
 const Home1 = () => {
     return (
         <>
             <HeaderV1 headerClass="dark" />
             <BannerV1 />
-            <ServicesV1 />
             <AboutV1 />
+            <ServicesV1 />
             <ProcessV1 />
             {/* <WhyChooseUsV1 chooseClass="bg-gray" /> */}
             {/* <TeamV1 /> */}
             {/* <TestimonialV2 /> */}
             <PriceV2/>
+            <AboutV2/>
             {/* <PriceV1 /> */}
             <ContactV1 />
             <FooterV1 />

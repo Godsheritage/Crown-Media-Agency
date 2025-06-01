@@ -5,7 +5,7 @@
         "icon1Dark": "target.png",
         "thumb": "1-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Receive expert guidance to script engaging and on-brand videos that resonate with your audience.",
+        "text": "Collaborate with seasoned industry experts to craft compelling scripts, this ensures every word is carefully chosen to resonate with your viewers and align seamlessly with your brand's messaging and goals.",
         "title": "Video Scripting & Storytelling",
         "serviceLink": "services-details"
     },
@@ -15,7 +15,7 @@
         "icon1Dark": "4.png",
         "thumb": "4-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "We transform your raw footage into polished long-form and short-form videos, ready to wow your audience.",
+        "text": "Transform your raw footage into professionally polished long-form and short-form videos that are designed to captivate your audience. Our expert editing team ensures every edit is intentional",
         "title": "Video Editing & Content Creation",
         "serviceLink": "services-details"
     },
@@ -25,7 +25,7 @@
         "icon1Dark": "5.png",
         "thumb": "5-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Maximize your reach by distributing your content seamlessly across multiple social platforms. Making you omnipresent",
+        "text": "We don't just post your content – we strategically distribute it across multiple social platforms. for maximum impact. Then we transform engagement metrics into actionable growth insights",
         "title": "Multi-Platform Distribution",
         "serviceLink": "services-details"
     },
@@ -35,7 +35,7 @@
         "icon1Dark": "6.png",
         "thumb": "6-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Stay informed with monthly reports that analyze video performance, audience engagement, and platform growth.",
+        "text": "Your monthly analytics report identifies exactly what content drives results, not just views. No more guessing which videos convert or what to post, we analyze video performance, audience engagement whihc leads to your brand growth.",
         "title": "Monthly Analytics & Insights",
         "serviceLink": "services-details"
     },
@@ -45,7 +45,7 @@
         "icon1Dark": "envelope.png",
         "thumb": "2-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Get personal coaching on setting up a professional video space, tailored to your unique needs.",
+        "text": "Receive personalized coaching to design and set up a professional video recording space that is tailored to your unique style. Our expert guidance covers everything from lighting to even audio, ensuring your setup enhances your on-camera presence.",
         "title": "Studio Setup Consultations",
         "serviceLink": "services-details"
     },
@@ -55,7 +55,7 @@
         "icon1Dark": "analytics.png",
         "thumb": "3-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Learn what gear suits your goals from industry pros, ensuring professional-quality output.",
+        "text": "Gain valuable insights on selecting the right gear tailored to your content goals. Our expert recommendations ensure you’re equipped with the tools necessary to produce high-quality, professional-grade output that elevates your brand presence.",
         "title": "Equipment Insights",
         "serviceLink": "services-details"
     }

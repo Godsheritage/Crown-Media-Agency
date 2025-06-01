@@ -51,10 +51,10 @@ const FooterV1 = () => {
                                             <Link to="/contact-us#">Career</Link>
                                         </li> */}
                                         <li>
-                                            <Link to="/pricing#">Plans & Pricing</Link>
+                                            <Link to="#">Plans & Pricing</Link>
                                         </li>
                                         <li>
-                                            <Link to="/contact-us#">Contact</Link>
+                                            <Link to="#">Contact</Link>
                                         </li>
                                     </ul>
                                 </div>

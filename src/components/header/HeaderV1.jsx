@@ -1,7 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import HeaderSidebarMenu from './HeaderSidebarMenu';
-import MainMenu from './MainMenu';
-import HeaderSearch from './HeaderSearch';
 import HeaderLogoV1 from './HeaderLogoV1';
 
 const HeaderV1 = ({ headerClass, logoColor = false }) => {
@@ -24,16 +21,6 @@ const HeaderV1 = ({ headerClass, logoColor = false }) => {
         };
     }, []);
 
-    // Search Bar
-    // const [openSearch, setOpenSearch] = useState(false);
-
-
-
-    // Sidebar Menu
-    // eslint-disable-next-line no-unused-vars
-
-
-    // Mobile Menu 
     const [isOpen, setIsOpen] = useState(false);
 
 
