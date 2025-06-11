@@ -37,7 +37,7 @@ const ContactInfo = () => {
                         <li>
                             <div className="info">
                                 <h4 className="title">Official Email</h4>
-                                <a href="mailto:info@digital.com.com">adeoyegodsheritage@gmail.com</a>
+                                <a href="mailto:info@digital.com.com">admin@crownmedia.agency</a>
                             </div>
                         </li>
                     </Animate>

@@ -15,8 +15,7 @@ const SinglePriceV2 = ({ price }) => {
                     <div className="price">
                         {/* <h2><sup id="priceSup">$</sup>{planPrice} <sub>{priceType}</sub></h2> */}
                         <h2>
-                            <sup id="priceSup">$</sup><s>{originalPrice}</s>
-                            <sup id="priceSup">$</sup>{discountedPrice} <sub>{priceType}</sub>
+                            <sup id="priceSup">$</sup>{planPrice} <sub>{priceType}</sub>
                         </h2>
                     </div>
                     <ul>

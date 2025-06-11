@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "planClass": "",
+        "plan": "Executive",
+        "planInfo": "A done for you version, only for executives",
+        "planPrice": "5,000",
+        "originalPrice": "396",
+        "discountedPrice": "198",
+        "priceType": "/ Month",
+        "list1": "14 short-form videos per week",
+        "list2": "2 long-form videos per week",
+        "list3": "1.5-hour comprehensive initial setup and brand discovery",
+        "list4": "30-minute weekly content and strategy call",
+        "list5": "2 one-on-one video coaching sessions per month",
+        "list6": "Content turnaround time: 1-4 business days",
+        "list7": "Comprehensive studio setup consultation with equipment selection, lighting, and acoustic optimization",
+        "list8": "Cross-Posting to Instagram, Facebook, Youtube, X(twitter), Tiktok, Linkedin",
+        "list9": "Advanced monthly analytics report with custom dashboards",
+        "list10": "Priority support (email, phone) with dedicated account manager",
+        "list11": "Send an in-house videographer to your studio once a month to record content for two full days. ",
+        "icon1": "fa-solid fa-check-circle",
+        "icon2": "fa-solid fa-check-circle",
+        "icon3": "fa-solid fa-times-circle",
+        "btnLink": "https://link.fastpaydirect.com/payment-link/683898580263ae0c8177d78f",
+        "btnText": "Select Plan",
+        "btnClass": "btn-dark"
+    }
+]

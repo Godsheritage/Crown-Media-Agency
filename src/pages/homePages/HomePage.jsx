@@ -29,7 +29,7 @@ const Home1 = () => {
             {/* <WhyChooseUsV1 chooseClass="bg-gray" /> */}
             {/* <TeamV1 /> */}
             {/* <TestimonialV2 /> */}
-            <PriceV2/>
+            {/* <PriceV2/> */}
             <AboutV2/>
             {/* <PriceV1 /> */}
             <ContactV1 />

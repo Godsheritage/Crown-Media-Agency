@@ -30,6 +30,7 @@ import Blog2Column from './pages/blogPages/Blog2Column';
 import Blog3Column from './pages/blogPages/Blog3Column';
 import BlogSingle from './pages/blogPages/BlogSingle';
 import BlogSingleSidebar from './pages/blogPages/BlogSingleSidebar';
+import PriceV2 from './components/price/PriceV2';
 
 const Routers = () => {
     return (
@@ -59,7 +60,7 @@ const Routers = () => {
                 <Route path='/team-details/:id' element={<TeamDetails />}></Route>
                 <Route path='/team-details' element={<Navigate to='/team-details/1' />} />
                 <Route path='/about-us' element={<AboutUs />}></Route>
-                <Route path='/pricing' element={<Pricing />}></Route>
+                <Route path='/pricing' element={<PriceV2 />}></Route>
                 <Route path='/contact-us' element={<ContactUs />}></Route>
                 <Route path='/blog-standard' element={<BlogStandard />}></Route>
                 <Route path='/blog-with-sidebar' element={<BlogWithSideBar />}></Route>

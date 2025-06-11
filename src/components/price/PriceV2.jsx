@@ -2,6 +2,7 @@ import React from 'react';
 import PriceV2Data from '../../jsonData/PriceV2Data.json'
 import SinglePriceV2 from './SinglePriceV2';
 import PriceV2CardData from "../../jsonData/PriceV2Data.json"
+import megaPrice from "../../jsonData/megaPrice.json"
 
 const PriceV2 = () => {
     return (
@@ -60,6 +61,7 @@ const PriceV2 = () => {
                                             </div>
                                         </div>
                                     </div>
+                                    <SinglePriceV2 price={megaPrice[0]}/>
                                 </div>
                             </div>
                         </div>

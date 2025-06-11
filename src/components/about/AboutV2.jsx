@@ -24,7 +24,9 @@ const AboutV2 = () => {
                                     If content is king, consistency is the crown. But consistency shouldn’t mean burning out. With Crown Media, you’ll get a team that thinks, creates, and executes like your own so you can stay focused on growing your business while we make sure you’re getting results.
                                 </p>
                                 <div className="about-grid-info">
-                                    <Link className="btn-round-animation" to="/services#">Book A Call <i className="fa-solid fa-arrow-right"></i></Link>
+                                    <a className="btn-round-animation" href="tel:+14439292178">
+                                        Call Us Now <i className="fa-solid fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>

@@ -73,7 +73,7 @@ const FooterV1 = () => {
                                         <li>
                                             <div className="content">
                                                 <strong>Email:</strong>
-                                                <a href="mailto:info@validtheme.com">adeoyegodsheritage@gmail.com</a>
+                                                <a href="mailto:info@validtheme.com">admin@crownmedia.agency</a>
                                             </div>
                                         </li>
                                         <li>
