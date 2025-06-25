@@ -59,7 +59,7 @@ const FooterV1 = () => {
                                         <li>
 
                                             <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="6847cc770d1dfb766b154b37" data-style-height="52px" data-style-width="100%">
-                                                <a href="https://www.trustpilot.com/review/crownmedia.agency" target="_blank" rel="noopener">Trustpilot</a>
+                                                <a href="https://www.trustpilot.com/review/crownmedia.agency" target="_blank" rel="noopener">Give us a Review on Trustpilot</a>
                                             </div>
 
                                         </li>
