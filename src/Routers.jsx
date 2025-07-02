@@ -31,15 +31,16 @@ import Blog3Column from './pages/blogPages/Blog3Column';
 import BlogSingle from './pages/blogPages/BlogSingle';
 import BlogSingleSidebar from './pages/blogPages/BlogSingleSidebar';
 import PriceV2 from './components/price/PriceV2';
+import Terms from './pages/homePages/Terms';
 
 const Routers = () => {
     return (
         <>
             <Routes>
                 <Route path='/' element={<Home1 />}></Route>
+                <Route path='/terms' element={<Terms />}></Route>
                 <Route path='/home-2' element={<Home2 />}></Route>
                 <Route path='/home-3' element={<Home3 />}></Route>
-                <Route path='/business' element={<Business />}></Route>
                 <Route path='/home-1-dark' element={<Home1Dark />}></Route>
                 <Route path='/home-2-dark' element={<Home2Dark />}></Route>
                 <Route path='/home-3-dark' element={<Home3Dark />}></Route>
