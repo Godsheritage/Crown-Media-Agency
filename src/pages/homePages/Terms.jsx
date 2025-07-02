@@ -14,12 +14,12 @@ const Terms = () => {
         <p className="text-sm text-gray-500 mb-2">Effective Date: July 1st, 2025</p>
 
         <p className="mb-4">
-          Welcome to Crown Media Agency! These Terms of Service ("Terms") govern your use of our website and
+          Welcome to Crown Media! These Terms of Service ("Terms") govern your use of our website and
           services. By accessing or using our site, you agree to be bound by these Terms.
         </p>
 
         <ul className="space-y-4 list-disc list-inside">
-          <li><strong>Services:</strong> Crown Media Agency provides media production and content services tailored to real estate entrepreneurs.</li>
+          <li><strong>Services:</strong> Crown Media provides media production and content services tailored to real estate entrepreneurs.</li>
           <li><strong>Eligibility:</strong> You must be at least 18 years old to use our services.</li>
           <li><strong>User Responsibilities:</strong> Use our services lawfully and responsibly.</li>
           <li><strong>Intellectual Property:</strong> All materials are owned or licensed by Crown Media Agency. No use without permission.</li>
@@ -46,7 +46,7 @@ const Terms = () => {
         <p className="text-sm text-gray-500 mb-2">Effective Date: July 1st, 2025</p>
 
         <p className="mb-4">
-          Crown Media Agency values your privacy. This Privacy Policy outlines how we collect, use, and protect your
+          Crown Media values your privacy. This Privacy Policy outlines how we collect, use, and protect your
           information.
         </p>
 
