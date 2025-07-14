@@ -30,7 +30,7 @@ const BannerV1 = () => {
                                                 <a className="btn btn-md btn-gradient animation" href="https://api.leadconnectorhq.com/widget/booking/ciqckeoMSq7nhG9zXf5O" target="_blank" rel="noopener noreferrer">
                                                     Book A Call
                                                 </a>
-                                                <a className="btn btn-md btnClass btn-border  ml-15 " href="tel:+14439292178" target="_blank" rel="noopener noreferrer">
+                                                <a className="btn btn-md btnClass btn-border  ml-15 " href="tel:+14438069450" target="_blank" rel="noopener noreferrer">
                                                     Call Now
                                                 </a>
                                             </div>

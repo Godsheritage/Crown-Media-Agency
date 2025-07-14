@@ -22,7 +22,14 @@ const Experience = () => {
                                     {ExperienceProgressData.map(progress =>
                                         <SingleExperience progress={progress} key={progress.id} />
                                     )}
+
+                                    <a className="btn-round-animation" href="tel:+14439292178">
+                                        Call Us Now <i className="fa-solid fa-arrow-right"></i>
+                                    </a>
+
                                 </div>
+
+
                             </div>
                         </div>
                         <div className="col-xl-6 offset-xl-1">
@@ -32,7 +39,9 @@ const Experience = () => {
                                         <SingleFaqV1 faq={faq} key={faq.id} />
                                     )}
                                 </div>
+
                             </div>
+
                         </div>
                     </div>
                 </div>
