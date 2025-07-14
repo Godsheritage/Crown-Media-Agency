@@ -1,8 +1,6 @@
 import { HashLink as Link } from 'react-router-hash-link';
 import Animate from '../animation/Animate';
-import me from "../../assets/imgs/me.jpg"
-import me2 from "../../assets/imgs/me2.jpg"
-import me3 from "../../assets/imgs/me3.png"
+
 
 const BannerV1 = () => {
     return (
@@ -40,10 +38,10 @@ const BannerV1 = () => {
                                 <div className="col-xl-6 col-lg-6 pl-50 pl-md-15 pl-xs-15">
                                     <div className="thumb">
                                         <Animate className="animate__animated animate__fadeInUp">
-                                            <img src={me} alt="Banner Image" />
+                                            <img src="https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/me.jpg" alt="Banner Image" />
                                         </Animate>
                                         <Animate className="animate__animated animate__fadeInDown" delay="500ms">
-                                            <img src={me2} alt="Banner Image" />
+                                            <img src="https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/me2.jpg" alt="Banner Image" />
                                         </Animate>
                                     </div>
                                 </div>

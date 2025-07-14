@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "image": "src/assets/testimonials/testimonial1.jpg"
+        "image": "https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/testimonial1.jpg"
     },
     {
         "id": 2,
-        "image": "src/assets/testimonials/testimonial2.jpg"
+        "image": "https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/testimonial2.jpg"
     },
     {
         "id": 3,
-        "image": "src/assets/testimonials/testimonial3.jpg"
+        "image": "https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/testimonial3.jpg"
     },
     {
         "id": 4,
-        "image": "src/assets/testimonials/testimonial4.jpg"
+        "image": "https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/testimonial4.jpg"
     },
     {
         "id": 5,
-        "image": "src/assets/testimonials/testimonial5.jpg"
+        "image": "https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/testimonial5.jpg"
     },
     {
         "id": 6,
-        "image": "src/assets/testimonials/testimonial6.jpg"
+        "image": "https://photographysitebucket.s3.us-east-1.amazonaws.com/Crown+Media/testimonial6.jpg"
     }
 ]
