@@ -38,7 +38,7 @@ const AboutV1 = () => {
                         </div>
                         <div className="col-xl-8 col-lg-12">
                             <div className="about-style-one">
-                                <h2 className="title pl-120 pl-md-0 pl-xs-0 mb-70 mb-md-40 mb-xs-30 mt-md-50 mt-xs-30">Your Content. Our System.<br /> Zero <strong>Guesswork</strong></h2>
+                                <h2 className="title pl-120 pl-md-0 pl-xs-0 mb-70 mb-md-40 mb-xs-30 mt-md-50 mt-xs-30">Stop hiring interns to create content, you need  <strong>Pros</strong> to get<br />  <strong>Pro</strong> results</h2>
                                 <div className="thumb bg-cover" style={{ backgroundImage: "url(https://images.pexels.com/photos/6476257/pexels-photo-6476257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)" }}>
                                     <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="tT2puL7IZOE" onClose={() => setOpen(false)} />
                                     <Link className="mfp-iframe popup-youtube video-play-button with-text mt-20" onClick={() => setOpen(true)}>
@@ -49,7 +49,7 @@ const AboutV1 = () => {
                                 <Animate className="animate__animated animate__fadeInUp" delay="1200ms" duration="400ms">
                                     <div className="button mt-40 ml-80">
                                         <a className="btn btn-md btn-gradient animation" href="https://api.leadconnectorhq.com/widget/booking/ciqckeoMSq7nhG9zXf5O" target="_blank" rel="noopener noreferrer">
-                                            Book A Call
+                                            Get Started
                                         </a>
                                     </div>
                                 </Animate>

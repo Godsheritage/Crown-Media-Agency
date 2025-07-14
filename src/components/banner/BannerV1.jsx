@@ -1,5 +1,8 @@
 import { HashLink as Link } from 'react-router-hash-link';
 import Animate from '../animation/Animate';
+import me from "../../assets/imgs/me.jpg"
+import me2 from "../../assets/imgs/me2.jpg"
+import me3 from "../../assets/imgs/me3.png"
 
 const BannerV1 = () => {
     return (
@@ -37,10 +40,10 @@ const BannerV1 = () => {
                                 <div className="col-xl-6 col-lg-6 pl-50 pl-md-15 pl-xs-15">
                                     <div className="thumb">
                                         <Animate className="animate__animated animate__fadeInUp">
-                                            <img src="https://dilabs-react.netlify.app/img/thumb/3.jpg" alt="Banner Image" />
+                                            <img src={me} alt="Banner Image" />
                                         </Animate>
                                         <Animate className="animate__animated animate__fadeInDown" delay="500ms">
-                                            <img src="https://dilabs-react.netlify.app/img/thumb/1.jpg" alt="Banner Image" />
+                                            <img src={me2} alt="Banner Image" />
                                         </Animate>
                                     </div>
                                 </div>

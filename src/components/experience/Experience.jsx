@@ -12,12 +12,11 @@ const Experience = () => {
                     <div className="row">
                         <div className="col-xl-5">
                             <div className="experience-style-one">
-                                <h4 className="sub-title">Our digital experience</h4>
-                                <h2 className="title">Leading the best digital agency in town</h2>
+                                <h2 className="title">Get an in-house content team at a fraction of the cost today</h2>
                                 <ul className="list-regular mt-30">
-                                    <li>Professional staff</li>
-                                    <li>100 Satisfaction guarantee</li>
-                                    <li>Install idea & solution</li>
+                                    <li>Professionally Certified Editors</li>
+                                    <li>Zero extra work from you</li>
+                                    <li>Save yourself 100 hours / month</li>
                                 </ul>
                                 <div className="circle-progress">
                                     {ExperienceProgressData.map(progress =>

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SingleTestimonialV2 = ({ testimonial }) => {
-    const { text, thumb, name, designation } = testimonial
+    const { image } = testimonial
 
     return (
         <>
@@ -9,17 +9,9 @@ const SingleTestimonialV2 = ({ testimonial }) => {
                 <div className="testimonial-style-one">
                     <div className="item">
                         <div className="content">
-                            <p>{text}</p>
+                            <img src={image} alt="" />
                         </div>
-                        <div className="provider">
-                            <div className="thumb">
-                                <img src={`/img/team/${thumb}`} alt="Thumb" />
-                            </div>
-                            <div className="info">
-                                <h4>{name}</h4>
-                                <span>{designation}</span>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

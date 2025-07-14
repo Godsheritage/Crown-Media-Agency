@@ -1,23 +1,26 @@
 [
     {
         "id": 1,
-        "text": "“Pargeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”",
-        "thumb": "9.jpg",
-        "name": "Matthew J. Wyman",
-        "designation": "Senior Consultant"
+        "image": "src/assets/testimonials/testimonial1.jpg"
     },
     {
         "id": 2,
-        "text": "“Pargeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”",
-        "thumb": "10.jpg",
-        "name": "Anthom Bu Spar",
-        "designation": "Marketing Manager"
+        "image": "src/assets/testimonials/testimonial2.jpg"
     },
     {
         "id": 3,
-        "text": "“Pargeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”",
-        "thumb": "11.jpg",
-        "name": "Istiak Ahmed",
-        "designation": "Senior Developer"
+        "image": "src/assets/testimonials/testimonial3.jpg"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/testimonials/testimonial4.jpg"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/testimonials/testimonial5.jpg"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/testimonials/testimonial6.jpg"
     }
 ]

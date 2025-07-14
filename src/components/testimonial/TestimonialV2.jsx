@@ -16,7 +16,7 @@ const TestimonialV2 = () => {
                     <div className="row">
                         <div className="col-lg-5">
                             <div className="testimonial-style-one-thumb">
-                                <h2 className="text-large">Testimonial</h2>
+                                <h4 className="text-large">Testimonials</h4>
                                 <img src="https://dilabs-react.netlify.app/img/illustration/1.png" alt="Image Not Found" />
                             </div>
                         </div>

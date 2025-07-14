@@ -11,7 +11,7 @@ const ServicesV1 = () => {
                         <div className="col-lg-8 offset-lg-2">
                             <div className="site-heading text-center">
                                 <h5 className="sub-title">Our Services  </h5>
-                                <h2 className="title">We build your brand <br />  While you build your business</h2>
+                                <h2 className="title">How we generate you <br />  organic leads</h2>
                             </div>
                         </div>
                     </div>

@@ -10,8 +10,8 @@ const ProcessV1 = ({ processClass }) => {
                     <div className="row">
                         <div className="col-lg-8 offset-lg-2">
                             <div className="site-heading text-center">
-                                <h5 className="sub-title">How we work</h5>
-                                <h2 className="title">We build your brand while <br /> You build your business </h2>
+                                {/* <h5 className="sub-title">How we work</h5> */}
+                                <h2 className="title">Get an in-house content team <br /> at a fraction of the cost <strong>today</strong></h2>
                             </div>
                         </div>
                     </div>

@@ -1,38 +1,50 @@
 [
     {
         "id": 1,
-         "dataParent": "faqAccordion",
+        "dataParent": "faqAccordion",
         "accordionId": "headingOne",
         "collapsedClass": "",
         "dataTarget": "#collapseOne",
         "ariaExpanded": "true",
         "ariaControls": "collapseOne",
-        "title": "How long have you been in business?",
-        "text": "Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.",
+        "title": "Is there a free trial?",
+        "text": "While we do not currently offer a free trial, we offer the next best thing: a 3 day video turnaround with a 14 day moneyback guarantee! If you're not completely satisfied with the way your videos are turning out and hate seeing your social media accounts gain tons of new followers, we can get your money back.",
         "collapseShow": "show"
     },
     {
         "id": 2,
-         "dataParent": "faqAccordion",
+        "dataParent": "faqAccordion",
         "accordionId": "headingTwo",
         "collapsedClass": "collapsed",
         "dataTarget": "#collapseTwo",
         "ariaExpanded": "false",
         "ariaControls": "collapseTwo",
-        "title": "What is search engine optimization?",
-        "text": "Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.",
+        "title": "How do I know I will see results?",
+        "text": "While we can't guarantee results, we work with you to create a strategy tailored to your specific niche and business goals. Your content is optimized to build community and generate conversations around your brand/prducts or offers.",
         "collapseShow": ""
     },
     {
         "id": 3,
-         "dataParent": "faqAccordion",
+        "dataParent": "faqAccordion",
         "accordionId": "headingThree",
         "collapsedClass": "collapsed",
         "dataTarget": "#collapseThree",
         "ariaExpanded": "false",
         "ariaControls": "collapseThree",
-        "title": "Do i really need a website?",
-        "text": "Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.",
+        "title": "What is the dedicated editing team capable of?",
+        "text": "the team here at crown media are professionally certified and experts at creating engaging and fun content. They add emojis, captions, transitions, stock footage, icons, color correction, b-rolls, and more! All of these elements are essential to creating your video with as much authenticity as possible!",
+        "collapseShow": ""
+    },
+    {
+        "id": 4,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingFour",
+        "collapsedClass": "collapsed",
+        "dataTarget": "#collapseFour",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseFour",
+        "title": "Why not learn to edit / hire my own editors?",
+        "text": "While you're more than welcome to try, it is not within many people's reach to hire an in-house editor with a full time salary. Additionally, finding a reliable editor that can pertain to editing specifically for social media is nearly impossible to find. The editors here at Crown media are experts in the field and know exactly what it takes to take your business to the next level with content that sparks action. Why waste time and money trying to find others?",
         "collapseShow": ""
     }
 ]

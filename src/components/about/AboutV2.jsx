@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link'
 import AboutListInfo from '../../jsonData/AboutListInfo.json';
-
+import { ChevronRight, Star, Play, Users, TrendingUp, Instagram, CheckCircle } from 'lucide-react';
 const AboutV2 = () => {
     return (
         <>
@@ -28,11 +28,12 @@ const AboutV2 = () => {
                                         Call Us Now <i className="fa-solid fa-arrow-right"></i>
                                     </a>
                                 </div>
+                              
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div >
         </>
     );
 };
