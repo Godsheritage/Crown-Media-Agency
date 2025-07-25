@@ -14,7 +14,6 @@ import PriceV1 from '../../components/price/PriceV1';
 import PriceV2 from '../../components/price/PriceV2';
 import ContactV1 from '../../components/contact/ContactV1';
 
-
 import TestimonialV2 from '../../components/testimonial/TestimonialV2';
 import AboutV2 from '../../components/about/AboutV2';
 import SingleFaqV1 from '../../components/experience/SingleFaqV1';
@@ -29,6 +28,7 @@ const Home1 = () => {
             <ServicesV1 />
             <ProcessV1 />
             <TestimonialV2 />
+           
             <Experience/>
             {/* <ContactV1 /> */}
             <FooterV1 />

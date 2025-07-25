@@ -7,8 +7,8 @@
         "dataTarget": "#collapseOne",
         "ariaExpanded": "true",
         "ariaControls": "collapseOne",
-        "title": "Is there a free trial?",
-        "text": "While we do not currently offer a free trial, we offer the next best thing: a 3 day video turnaround with a 14 day moneyback guarantee! If you're not completely satisfied with the way your videos are turning out and hate seeing your social media accounts gain tons of new followers, we can get your money back.",
+        "title": "How do I know If I am fit?",
+        "text": "If you are a real estate entrepreneur who wants to grow and sell on social media and is willing to invest in a growth system that works then book a call. If you are not willing to invest please do not.",
         "collapseShow": "show"
     },
     {
@@ -20,7 +20,7 @@
         "ariaExpanded": "false",
         "ariaControls": "collapseTwo",
         "title": "How do I know I will see results?",
-        "text": "While we can't guarantee results, we work with you to create a strategy tailored to your specific niche and business goals. Your content is optimized to build community and generate conversations around your brand/prducts or offers.",
+        "text": "You will start seeing results when we start posting videos! To do the strategy call, research, scripting, filming, and editing takes 2 weeks and then the posting begins!",
         "collapseShow": ""
     },
     {
@@ -31,8 +31,8 @@
         "dataTarget": "#collapseThree",
         "ariaExpanded": "false",
         "ariaControls": "collapseThree",
-        "title": "What is the dedicated editing team capable of?",
-        "text": "the team here at crown media are professionally certified and experts at creating engaging and fun content. They add emojis, captions, transitions, stock footage, icons, color correction, b-rolls, and more! All of these elements are essential to creating your video with as much authenticity as possible!",
+        "title": "What is the point of building up your personal brand?",
+        "text": "What do all these people and their businesses have in common?\n\nKylie Jenner – Kylie Cosmetics – Youngest self-made billionaire\nRihanna – Fenty Beauty – $2.8 billion valuation\nRyan Reynolds – Mint Mobile – Sold for $1 billion\nLogan Paul – Prime – $3.1 billion valuation\nThe Rock – Teremana Tequila – $3.5 billion valuation\n\nAll of these individuals built powerful personal brands through acting, music, TV, or social media. When they launched their businesses, their massive personal brands acted as built-in marketing engines—causing their companies to explode.\n\nToday, social media gives the average person the same opportunity. You don’t have to be an actor, singer, or athlete to build a brand and a business. If you're a business owner, you can grow both yourself and your company through content like never before.\n\nThere’s a massive opportunity here—and if you don’t take it, your competitors will… and they'll take your customers with them.",
         "collapseShow": ""
     },
     {
@@ -43,6 +43,18 @@
         "dataTarget": "#collapseFour",
         "ariaExpanded": "false",
         "ariaControls": "collapseFour",
+        "title": "How much time does it take?",
+        "text": "This service is completely done-for-you. We handle everything — from research and scripting, to sending one of our reps to film, all the way through editing and uploading. The only thing you need to do is show up, because it’s your personal brand. Most clients spend about 4–6 hours a month filming, but that can vary depending on how fast you are on camera and how many takes you prefer. While we don’t guarantee an exact time commitment, our goal is to make filming the easiest part of your month.",
+        "collapseShow": ""
+    },
+    {
+        "id": 5,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingFive",
+        "collapsedClass": "collapsed",
+        "dataTarget": "#collapseFive",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseFive",
         "title": "Why not learn to edit / hire my own editors?",
         "text": "While you're more than welcome to try, it is not within many people's reach to hire an in-house editor with a full time salary. Additionally, finding a reliable editor that can pertain to editing specifically for social media is nearly impossible to find. The editors here at Crown media are experts in the field and know exactly what it takes to take your business to the next level with content that sparks action. Why waste time and money trying to find others?",
         "collapseShow": ""

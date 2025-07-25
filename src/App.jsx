@@ -11,7 +11,7 @@ import './assets/css/elegant-icons.css';
 import './assets/css/flaticon-set.css';
 import './assets/css/animate.css';
 import './assets/css/validnavs.css';
-import './assets/css/unit-test.css';
+// import './assets/css/unit-test.css';
 import './assets/css/spacing.css'
 import './assets/css/style.css'
 

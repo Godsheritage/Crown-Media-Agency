@@ -4,6 +4,7 @@ import { Keyboard, Autoplay, Pagination } from 'swiper/modules';
 import TestimonialV2Data from '../../jsonData/TestimonialV2Data.json'
 import SingleTestimonialV2 from './SingleTestimonialV2';
 import { useRef } from 'react';
+import testimonialimg from "../../assets/testimonials.png"
 
 const TestimonialV2 = () => {
 
@@ -59,6 +60,7 @@ const TestimonialV2 = () => {
 
                             </div>
                         </div>
+                         <img src={testimonialimg}/>
                     </div>
                 </div>
             </div>
