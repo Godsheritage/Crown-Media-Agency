@@ -15,6 +15,7 @@ const TestimonialV2 = () => {
             <div className="testimonail-style-one-area default-padding">
                 <div className="container">
                     <div className="row">
+                      
                         <div className="col-lg-5">
                             <div className="testimonial-style-one-thumb">
                                 <h4 className="text-large">Testimonials</h4>
@@ -60,7 +61,7 @@ const TestimonialV2 = () => {
 
                             </div>
                         </div>
-                         <img src={testimonialimg}/>
+                        <img src={testimonialimg} />
                     </div>
                 </div>
             </div>

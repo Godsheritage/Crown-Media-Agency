@@ -16,13 +16,14 @@ const BannerV1 = () => {
                                 <div className="col-xl-6 col-lg-6">
                                     <div className="information">
                                         <Animate className="animate__animated animate__fadeInUp" delay="500ms" duration="400ms">
-                                            <h2>Crown  <strong>Media</strong></h2>
+                                            <h3 style={{fontSize:"5rem"}}>Turn One 4-Hour Shoot Into <strong>30 Days of Content</strong></h3>
                                         </Animate>
                                         <Animate className="animate__animated animate__fadeInUp" delay="900ms" duration="400ms">
                                             <p>
-                                                As a real estate entrepreneur you've got a message worth sharing or a brand the world needs see. But the reality? Creating consistent, high-converting content is a full-time job. Strategy, filming, editing, optimization, publishing, tracking results... it never ends. That's where we come in
+                                                For real estate entrepreneurs who want attention without the grind—we strategize, script, shoot, edit, and post scroll-stopping content that builds your brand and brings in leads. So you can focus on closing deals, not chasing trends on social media.
                                             </p>
                                         </Animate>
+
                                         <Animate className="animate__animated animate__fadeInUp" delay="1200ms" duration="400ms">
                                             <div className="button mt-40">
                                                 <a className="btn btn-md btn-gradient animation" href="https://api.leadconnectorhq.com/widget/booking/ciqckeoMSq7nhG9zXf5O" target="_blank" rel="noopener noreferrer">

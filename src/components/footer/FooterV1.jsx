@@ -23,8 +23,7 @@ const FooterV1 = () => {
                                 </div>
                                 <div className="f-item about pr-50 pr-xs-0 pr-md-0">
                                     <img className="logo" src="/img/logo/logoWhite.png" alt="Logo" />
-                                    <p>
-                                        Empowering real estate entrepreneurs to amplify their voice through compelling visual storytelling and strategic brand development.
+                                    <p>You’ve built the business, now let’s make it visible. One shoot. 30 days of trully done-for-you content.
                                     </p>
                                     <div className="footer-social mt-30">
                                         <ul>

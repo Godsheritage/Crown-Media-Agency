@@ -5,7 +5,7 @@
         "icon1Dark": "target.png",
         "thumb": "1-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "Our team of seasoned industry experts crafts compelling scripts, ensuring every word is carefully chosen to resonate with your audience and align seamlessly with your brand’s message and goals.",
+        "text": "You’ll never stare at a blank doc again—we write content that sounds like you and converts like crazy.",
         "title": "Video Scripting & Storytelling"
 
     },
@@ -15,8 +15,8 @@
         "icon1Dark": "4.png",
         "thumb": "4-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "This is where the magic happens—your dedicated team transforms raw footage into professionally polished long-form and short-form videos designed to captivate your audience.",
-        "title": "Video Editing & Content Creation"
+        "text": "No janky captions or TikTok filters. Just clean, crisp, on-brand content made for your audience.",
+        "title": "Studio-Level Editing in Your Style"
     },
     {
         "id": 5,
@@ -24,7 +24,7 @@
         "icon1Dark": "5.png",
         "thumb": "5-full.jpg",
         "icon2": "fas fa-long-arrow-right",
-        "text": "We don't just post your content – we strategically distribute it across multiple social platforms. for maximum impact. Direct your newfound audience to your website, and watch your leads multiply",
-        "title": "Multi-Platform Distribution"
+        "text": "We post your content across all your platforms so it feels like you’re everywhere—even when you're busy closing a deal",
+        "title": "Your Face, Everywhere. On Repeat"
     }
 ]

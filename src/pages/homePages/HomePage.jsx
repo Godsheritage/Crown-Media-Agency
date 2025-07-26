@@ -28,10 +28,10 @@ const Home1 = () => {
             <ServicesV1 />
             <ProcessV1 />
             <TestimonialV2 />
-           
             <Experience/>
-            {/* <ContactV1 /> */}
+           
             <FooterV1 />
+            {/* <ContactV1 /> */}
             {/* <TeamV1 /> */}
             {/* <PriceV2/> */}
             {/* <PriceV1 /> */}
