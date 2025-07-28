@@ -50,9 +50,6 @@ const FooterV1 = () => {
                                             <Link to="/contact-us#">Career</Link>
                                         </li> */}
                                         <li>
-                                            <Link to="#">Plans & Pricing</Link>
-                                        </li>
-                                        <li>
                                             <Link to="#">Contact</Link>
                                         </li>
                                         <li>
@@ -72,12 +69,6 @@ const FooterV1 = () => {
                                     <ul>
                                         <li>
                                             <div className="content">
-                                                <strong>Address:</strong>
-                                                Baltimore, MD
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div className="content">
                                                 <strong>Email:</strong>
                                                 <a href="mailto:info@validtheme.com">admin@crownmedia.agency</a>
                                             </div>
@@ -85,18 +76,19 @@ const FooterV1 = () => {
                                         <li>
                                             <div className="content">
                                                 <strong>Phone:</strong>
-                                                <a href="tel:2151234567">+1(443)929-2178</a>
+                                                <a href="tel:2151234567">+1(443)806-9450</a>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
+                            
 
                             <div className="col-lg-3 col-md-6 footer-item mt-50">
                                 <div className="f-item newsletter">
                                     <h4 className="widget-title">Newsletter</h4>
                                     <p>
-                                        Join our subscribers list to get the instant latest news and special offers.
+                                        You have our word, we won't spam.
                                     </p>
                                     <form onSubmit={handleSearch}>
                                         <input type="email" placeholder="Your Email" className="form-control" name="email" autoComplete='off' required />

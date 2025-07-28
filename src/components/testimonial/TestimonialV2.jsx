@@ -5,6 +5,7 @@ import TestimonialV2Data from '../../jsonData/TestimonialV2Data.json'
 import SingleTestimonialV2 from './SingleTestimonialV2';
 import { useRef } from 'react';
 import testimonialimg from "../../assets/testimonials.png"
+import VideoCarousel from './VideoCarousel';
 
 const TestimonialV2 = () => {
 
@@ -15,7 +16,7 @@ const TestimonialV2 = () => {
             <div className="testimonail-style-one-area default-padding">
                 <div className="container">
                     <div className="row">
-                      
+
                         <div className="col-lg-5">
                             <div className="testimonial-style-one-thumb">
                                 <h4 className="text-large">Testimonials</h4>
@@ -61,7 +62,10 @@ const TestimonialV2 = () => {
 
                             </div>
                         </div>
-                        <img src={testimonialimg} />
+                        <div>
+                            <img src={testimonialimg} />
+                        </div>
+                        <VideoCarousel/>
                     </div>
                 </div>
             </div>
